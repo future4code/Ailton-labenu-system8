@@ -2,6 +2,8 @@
 
 Grupo: Lincoln Ribeiro, Rodrigo Póvoa.
 
+Documentação: https://documenter.getpostman.com/view/21551951/2s7YYr8QHG
+
 #Projeto LabenuSystem, onde foi criado o backend de um sistema escolar, onde se é possivel cadastrar estudantes, docentes e turmas.
 
 #Tecnologias Utilizadas:
